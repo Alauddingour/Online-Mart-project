@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    width: 1200px;
+    height: 500px;
+}
+#navbar
+{
+    display: flex;
+    justify-content: space-between;
+    height: 3em;
+    background-color:gray
+}
+
+.nav-link
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.dropdown-item
+{
+    background-color:gainsboro;
+}
+
+#dropdownMenuButton
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:light;
+    font-size: large;
+    border: transparent;
+    width: 260px;
+    height: 46px;
+}
+
+#toggleContents
+{
+    width: 180px;
+}
